@@ -1,0 +1,14 @@
+<resources>
+    <string-array name="member_types">
+        <item>Friend</item>
+        <item>Family</item>
+        <item>Business</item>
+    </string-array>
+    <string-array name="member_types_values">
+        <item>Friend</item>
+        <item>Family</item>
+        <item>Business</item>
+    </string-array>
+    <string name="app_name">AppintmentAssignment</string>
+    <string name="action_settings">Settings</string>
+</resources>
